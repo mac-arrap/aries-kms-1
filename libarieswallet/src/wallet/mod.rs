@@ -1,4 +1,4 @@
-pub mod key;
+pub struct WalletStorage {}
 
 pub struct Keys {}
 
